@@ -3,5 +3,5 @@ email: your-email@example.com
 description: >- 
   A user-friendly blog with a responsive design, featuring technology and coding posts.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://<username>.github.io" # your GitHub Pages URL
+url: "https://smdream.github.io/networth.github.io" # your GitHub Pages URL
 theme: minima
